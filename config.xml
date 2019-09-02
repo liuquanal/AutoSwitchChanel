@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<OnSeconds Air="10" Rec="30"/>
+	<Point Air="yhc_dj" Rec="yhc_rd" Out="yhc_fm"/>
+</Config>
